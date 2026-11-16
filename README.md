@@ -52,7 +52,7 @@ If Fiji is installed somewhere other than `/Applications/Fiji.app`, set `FIJI_EX
 4. Run `CHECK INSTALLATION WINDOWS.bat`.
 5. Run `run_app_windows.bat`.
 
-The app searches common Fiji locations. You can set the `FIJI_EXECUTABLE` environment variable to the complete Fiji executable path when needed.
+The app searches common Fiji locations. You can set the `FIJI_EXECUTABLE` environment variable to the complete Fiji executable path when neded.
 
 ### Command line
 
@@ -69,7 +69,7 @@ Open the local address printed in the terminal. Stop the app with `Ctrl+C`.
 
 1. Select a raw-image folder and output location.
 2. Run preprocessing and ROI cropping, or load an existing compatible job folder.
-3. Review every ROI and mark it keep or reject before viewing downstream quantitative measurements.
+3. Review every ROI and mark eth keep or reject before viewing downstream quantitative measurements.
 4. Assign channel roles and, when cleaning is used, adjust the background-suppression controls while inspecting the preview. The app saves the cleaned derivative and its parameters.
 5. Select the appropriate input source and run PCC/Manders, condensate count/size, partition coefficient, or fixed-cell MS2 analysis.
 6. Inspect the QC overlays and exported workbook before statistical analysis.
@@ -86,7 +86,7 @@ See [docs/ANALYSIS_METHODS.md](docs/ANALYSIS_METHODS.md) for calculations and [d
 
 ## Citation
 
-Please cite the version-specific Zenodo record for the exact release used. Citation metadata are also provided in [`CITATION.cff`](CITATION.cff). The DOI will be added to the repository metadata after the first GitHub release is archived by Zenodo.
+Please cite the version-specific Zenodo record for the exact release used. Citation metadata are also provided in [`CITATION.cff](CITATION.cff). The DOI will be added to the repository metadata after the first GitHub release is archived by Zenodo.
 
 ## Authorship and development
 
@@ -94,8 +94,8 @@ The software was designed and developed by David Oke using AI-assisted coding. S
 
 ## License
 
-The release license will be recorded in the repository before public publication.
+This software is released under the [MIT License](LICENSE).
 
 ## Third-party software
 
-Fiji/ImageJ and JACoP are not distributed in this repository. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Fiji/ImaeJa and JACoP are not distributed in this repository. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
