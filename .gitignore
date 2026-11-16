@@ -1,0 +1,30 @@
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.venv*/
+.server_port
+*.log
+review_state.json
+state_backups/
+thumbnail_cache/
+generated_runners/
+uploaded_raw_image_folders/
+CONDENSATE_REVIEW_STATE*.json
+COUNT_SIZE_THRESHOLDS.json
+ENHANCED_JACOP_PREPROCESSOR_RESULTS/
+03_cropped_rois_for_final_choice/
+REAL FIJI PCC MANDERS RESULTS/
+real_fiji_pcc_manders_analysis/
+fixed_cell_ms2_condensate_analysis/
+manual_nuclear_partition_coefficient_analysis/
+approved_crops_for_*/
+*.xlsx
+*.xls
+*.tif
+*.tiff
+*.zip
+Fiji.app/
+FIJI FOR MAC/
+FIJI FOR WINDOWS/
+python-*-amd64.exe
