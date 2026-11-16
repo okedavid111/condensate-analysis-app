@@ -7,6 +7,8 @@ authors:
     given-names: "David"
 version: "1.0.0"
 date-released: "2026-11-16"
+license: MIT
+repository-code: "https://github.com/okedavid111/condensate-analysis-app"
 abstract: >-
   A cross-platform local Python application for microscopy ROI review,
   reproducible image cleaning, Fiji/ImageJ-based Pearson and directional
