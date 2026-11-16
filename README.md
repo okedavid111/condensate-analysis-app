@@ -2,6 +2,8 @@
 
 Version 1.0.0
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24293415.svg)](https://doi.org/10.5281/zenodo.24293415)
+
 The Condensate Analysis App is a cross-platform, local Python application for reproducible microscopy image review, cleaning, segmentation, colocalization, and condensate quantification. It replaces manual Photoshop background cleanup with documented NumPy, SciPy, and scikit-image processing and programmatically runs the required Fiji/ImageJ operations.
 
 The app was developed for two- and three-channel fluorescence TIFF images. It provides:
@@ -86,7 +88,11 @@ See [docs/ANALYSIS_METHODS.md](docs/ANALYSIS_METHODS.md) for calculations and [d
 
 ## Citation
 
-Please cite the version-specific Zenodo record for the exact release used. Citation metadata are also provided in [`CITATION.cff`](CITATION.cff). The DOI will be added to the repository metadata after the first GitHub release is archived by Zenodo.
+Please cite the version-specific record for this release:
+
+Oke, David (2026). *Condensate Analysis App* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24293415
+
+Citation metadata are also provided in [`CITATION.cff`](CITATION.cff).
 
 ## Authorship and development
 
