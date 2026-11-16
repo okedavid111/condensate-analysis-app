@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the version-specific Zenodo record for the release you used."
+title: "Condensate Analysis App"
+type: software
+authors:
+  - family-names: "Oke"
+    given-names: "David"
+version: "1.0.0"
+date-released: "2026-11-16"
+abstract: >-
+  A cross-platform local Python application for microscopy ROI review,
+  reproducible image cleaning, Fiji/ImageJ-based Pearson and directional
+  Manders colocalization, condensate count and size measurement,
+  partition-coefficient analysis, fixed-cell MS2 measurements, quality
+  control, and Excel reporting.
+keywords:
+  - microscopy
+  - condensates
+  - colocalization
+  - Fiji
+  - ImageJ
+  - Pearson correlation
+  - Manders coefficient
+  - partition coefficient
+  - image analysis
