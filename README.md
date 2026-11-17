@@ -105,3 +105,7 @@ This software is released under the [MIT License](LICENSE).
 ## Third-party software
 
 Fiji/ImageJ and JACoP are not distributed in this repository. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Acknowledgments
+
+This software was developed by David Oke during his doctoral research in the laboratory of Dr. Allan Albig in the Biomolecular Sciences PhD Program at Boise State University. The author thanks Dr. Albig for doctoral supervision, scientific mentorship, and for providing the research environment in which the microscopy-analysis needs addressed by this software were identified. Software development was independently undertaken and funded by the author.
